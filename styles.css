@@ -1,0 +1,13 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+.unordered {
+    color: rgb(80, 80, 235);
+    font-size: 14px;
+}
+
+.ordered {
+    color: rgb(192, 68, 68);
+    font-size: 13px;
+}
